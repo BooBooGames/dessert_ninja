@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/APK/TitleScreen.unity
+    guid: 51550db74bdff7841bc6a985784da158
+  - enabled: 1
+    path: Assets/Scenes/APK/Level 1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/APK/Level 2.unity
+    guid: abad1dd3854041a4eac19dc62a4903a0
+  - enabled: 1
+    path: Assets/Scenes/APK/Level 3.unity
+    guid: a16bee67d7592884d9c52fb9febcf707
+  - enabled: 1
+    path: Assets/Scenes/APK/Level 4.unity
+    guid: 2c2441b641d3525478c94dbab1f979c3
+  - enabled: 1
+    path: Assets/Scenes/APK/Level 5.unity
+    guid: fe8e65c9c1b722244a09375adc664e1d
+  m_configObjects: {}
